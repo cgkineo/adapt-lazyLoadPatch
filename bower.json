@@ -1,0 +1,15 @@
+{
+    "name": "adapt-lazyLoadPatch",
+    "version": "0.1.0",
+    "framework": "2.0.16 - 5.3",
+    "displayName": "Lazy Load Patch",
+    "extension": "lazyLoadPatch",
+    "description": "Fix loading of images in Chrome for Android’s Lite Mode",
+    "main": "/js/adapt-lazyLoadPatch.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/cgkineo/adapt-lazyLoadPatch"
+}
